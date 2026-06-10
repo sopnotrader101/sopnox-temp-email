@@ -16,7 +16,7 @@ import time
 # BOT_TOKEN এবং অন্যান্য MAYTAPI ভেরিয়েবলগুলো এখন সরাসরি কোডে অ্যাসাইন করা হয়েছে
 # সিকিউরিটির জন্য, ভবিষ্যতে এগুলো environment variable হিসেবে ব্যবহার করার পরামর্শ দেওয়া হচ্ছে।
 
-BOT_TOKEN = '8823511096:AAE_ZR7LZe1OboXyYNWUsD_SV7OPkGo6zXQ'
+BOT_TOKEN = '8823511096:AAEpkLu9PlYjVZ5ADwvMbu1WbgN3uWjXqjs'
 MAYTAPI_PRODUCT_ID = '11ef3df6-00f1-4a11-a1a2-0f703175f87e'
 MAYTAPI_PHONE_ID = '123542'
 MAYTAPI_TOKEN = 'b3de65b5-0b07-411a-b0c4-830d3a2c9c6b'
